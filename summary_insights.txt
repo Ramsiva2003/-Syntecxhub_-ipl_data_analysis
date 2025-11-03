@@ -1,0 +1,6 @@
+IPL Analysis - Short Insights
+=============================
+
+- Top run scorer overall: V Kohli with 5878 runs (based on deliveries.csv aggregation).
+- Team with most wins (in dataset): Mumbai Indians with 120 recorded wins.
+- Highest strike rate (min balls threshold applied): B Stanlake - SR 250.00 (runs: 5, balls: 2).
